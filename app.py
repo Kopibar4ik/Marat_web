@@ -25,7 +25,9 @@ HTML_PAGE = """
         <p>Спасибо за посещение этого сайта</p>
     </div>
     <div style="margin-top: 20px;">
-        <img src="AtomicHeart_sample.jpg" alt="Моя фотография" style="border-radius: 15px;">
+        <img src="https://i.postimg.cc/CK35DjxR/Atomic-Heart-sample.jpg" 
+        alt="Моя фотография" 
+        style="border-radius: 15px; max-width: 100%;">
     </div>
 </body>
 </html>
