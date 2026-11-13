@@ -24,7 +24,7 @@ HTML_PAGE = """
         <p>Ты находишься на моем сайте.</p>
         <p>Спасибо за посещение этого сайта</p>
     </div>
-    <img src="my_photo.jpg" alt="Моя фотография">
+    <img src="AtomicHeart_sample.jpg" alt="Моя фотография">
 </body>
 </html>
 """
