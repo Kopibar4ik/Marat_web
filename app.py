@@ -24,7 +24,9 @@ HTML_PAGE = """
         <p>Ты находишься на моем сайте.</p>
         <p>Спасибо за посещение этого сайта</p>
     </div>
-    <img src="AtomicHeart_sample.jpg" alt="Моя фотография">
+    <div style="margin-top: 20px;">
+        <img src="AtomicHeart_sample.jpg" alt="Моя фотография" style="border-radius: 15px;">
+    </div>
 </body>
 </html>
 """
